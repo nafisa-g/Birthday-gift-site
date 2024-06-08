@@ -1,7 +1,8 @@
 body{
     /*background-color: rgb(173, 67, 173);*/
     text-align: center;
-    background: linear-gradient(#b50d7d, #a81a80);
+    background-color:#00296B;
+    color: white;
 }
 .yahid{
     width: 200px;
@@ -22,15 +23,18 @@ body{
   
 }
 .text{
-    border: 2px solid rgb(0, 0, 0);
-    background-color: #c99513;
+    border: 2px solid white;
+    background-color: #DEA61B;
     padding:7px;
     border-top-left-radius: 10px;
     margin-bottom:1px  ;
     margin-bottom:1px  ;
+    color: white;
+
 }
 .TEXT{
-    border: 2px solid rgb(0, 0, 0);
+    margin-top:2px;
+    border: 2px solid white;
     background-color: #DEA61B;
     padding:7px;
     border-top-left-radius: 10px;
